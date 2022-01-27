@@ -5,9 +5,42 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Component | Demo</title>
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="component.css" />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div>In Main Branch</div>
-    <div>In Development Branch</div>
+    <div class="container">
+      <div class="alert alert-primary">This is primary alert</div>
+      <div class="alert alert-secondary">This is secondary alert</div>
+      <div class="alert alert-success">This is success alert</div>
+      <div class="alert alert-danger">This is danger alert</div>
+      <div class="alert alert-warning">This is warning alert</div>
+      <div class="alert alert-light">This is light alert</div>
+      <div class="alert alert-dark">This is dark alert</div>
+
+      <div class="buttons">
+        <button type="button" class="btn btn-primary">Solid Primary</button>
+        <button type="button" class="btn btn-secondary">Outline Primary</button>
+        <button type="button" class="btn btn-primary">
+          <i class="fas fa-shopping-cart"></i> Add Cart
+        </button>
+        <a class="btn-link" href="/">Link</a>
+        <button type="button" class="btn btn-primary">
+          <i class="fas fa-shopping-cart"></i>
+        </button>
+
+        <button type="button" class="btn btn-secondary">
+          <i class="fas fa-shopping-cart"></i>
+        </button>
+        <a class="btn-icon" href="/"><i class="fas fa-shopping-cart"></i></a>
+        <a class="btn-float-icon" href="/"><i class="fas fa-plus"></i></a>
+      </div>
+    </div>
   </body>
 </html>
