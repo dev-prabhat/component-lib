@@ -1,0 +1,40 @@
+.alert {
+  font-size: 1.25rem;
+  padding: 1em;
+  border-radius: 0.5em;
+}
+
+.alert-primary {
+  background-color: var(--primary-light-color);
+  color: var(--primary-color);
+}
+
+.alert-secondary {
+  background-color: var(--secondary-light-color);
+  color: var(--secondary-color);
+}
+
+.alert-success {
+  background-color: var(--success-light-color);
+  color: var(--success-color);
+}
+
+.alert-danger {
+  background-color: var(--danger-light-color);
+  color: var(--danger-color);
+}
+
+.alert-warning {
+  background-color: var(--warning-light-color);
+  color: var(--warning-color);
+}
+
+.alert-light {
+  background-color: var(--light-color);
+  color: var(--dark-color);
+}
+
+.alert-dark {
+  background-color: var(--dark-color);
+  color: var(--light-color);
+}

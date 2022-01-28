@@ -1,0 +1,36 @@
+.btn {
+  font-size: 1rem;
+  padding: 0.5em 1em;
+  border: 1px solid var(--primary-theme-color);
+  border-radius: 0.5em;
+  cursor: pointer;
+}
+
+.btn-link {
+  font-size: 1rem;
+  padding: 0.5em 1em;
+  color: var(--dark-theme-color);
+  text-decoration-color: var(--primary-theme-color);
+}
+
+.btn-primary {
+  background-color: var(--primary-theme-color);
+  color: var(--secondary-theme-color);
+}
+
+.btn-secondary {
+  background-color: var(--secondary-theme-color);
+  color: var(--primary-theme-color);
+}
+
+.btn-icon {
+  color: var(--primary-theme-color);
+}
+
+.btn-float-icon {
+  font-size: 1rem;
+  padding: 1em;
+  background-color: var(--primary-theme-color);
+  color: var(--secondary-theme-color);
+  border-radius: 50%;
+}
