@@ -11,6 +11,7 @@
   padding: 0.5em 1em;
   color: var(--dark-theme-color);
   text-decoration-color: var(--primary-theme-color);
+  cursor: pointer;
 }
 
 .btn-primary {

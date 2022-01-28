@@ -1,0 +1,65 @@
+.badge {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+}
+
+.badge-xl {
+  position: absolute;
+  right: 20px;
+  bottom: 15px;
+}
+
+.badge-lg {
+  position: absolute;
+  right: 10px;
+  bottom: 15px;
+}
+
+.badge-md {
+  position: absolute;
+  right: 0px;
+  bottom: 15px;
+}
+
+.badge-sm {
+  position: absolute;
+  right: -5px;
+  bottom: 10px;
+}
+
+.badge-xs {
+  position: absolute;
+  width: 0.7rem;
+  height: 0.7rem;
+  right: -2px;
+  bottom: 5px;
+}
+
+.badge-container {
+  position: relative;
+  width: max-content;
+}
+
+.badge-status-online {
+  background-color: var(--success-color);
+}
+
+.badge-status-offline {
+  background-color: var(--danger-color);
+}
+
+.badge-icon {
+  width: 1.2em;
+  height: 1.2em;
+  text-align: center;
+  color: var(--secondary-theme-color);
+
+  position: absolute;
+  top: -10px;
+  right: -15px;
+}
+
+.badge-link {
+  cursor: pointer;
+}
