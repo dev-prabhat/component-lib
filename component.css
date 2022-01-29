@@ -1,5 +1,7 @@
 @import url("./components/alert.css");
 @import url("./components/button.css");
+@import url("./components/avatar.css");
+@import url("./components/badge.css");
 
 :root {
   --primary-color: #0284c7;
@@ -10,7 +12,7 @@
   --secondary-theme-color: #fefefe;
   --success-color: #15803d;
   --success-light-color: #bbf7d0;
-  --danger-color: #b91c1c;
+  --danger-color: #dc2626;
   --danger-light-color: #fecaca;
   --warning-color: #ca8a04;
   --warning-light-color: #fef9c3;
