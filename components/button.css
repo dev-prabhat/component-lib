@@ -1,5 +1,5 @@
 .btn {
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding: 0.5em 1em;
   border: 1px solid var(--primary-theme-color);
   border-radius: 0.5em;
@@ -7,10 +7,10 @@
 }
 
 .btn-link {
-  font-size: 1rem;
-  padding: 0.5em 1em;
-  color: var(--dark-theme-color);
-  text-decoration-color: var(--primary-theme-color);
+  text-decoration: none;
+  margin: 0 1em;
+  font-size: 1.2rem;
+  color: var(--primary-theme-color);
 }
 
 .btn-primary {
