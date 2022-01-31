@@ -1,6 +1,6 @@
 .badge {
-  width: 1rem;
-  height: 1rem;
+  width: 1em;
+  height: 1em;
   border-radius: 50%;
 }
 
@@ -38,7 +38,6 @@
 
 .badge-container {
   position: relative;
-  width: max-content;
 }
 
 .badge-status-online {
@@ -62,4 +61,14 @@
 
 .badge-link {
   cursor: pointer;
+}
+
+.card-badge {
+  padding: 0.25em;
+  text-align: center;
+  color: var(--secondary-theme-color);
+
+  position: absolute;
+  top: -10px;
+  right: -15px;
 }
