@@ -2,6 +2,8 @@
 @import url("./components/button.css");
 @import url("./components/avatar.css");
 @import url("./components/badge.css");
+@import url("./components/image.css");
+@import url("./components/utile.css");
 
 :root {
   --primary-color: #0284c7;
