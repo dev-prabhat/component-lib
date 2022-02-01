@@ -4,6 +4,7 @@
 @import url("./components/badge.css");
 @import url("./components/image.css");
 @import url("./components/utile.css");
+@import url("./components/form.css");
 
 :root {
   --primary-color: #0284c7;
