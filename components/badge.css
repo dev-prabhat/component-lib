@@ -53,12 +53,17 @@
   cursor: pointer;
 }
 
-.card-badge {
+.card-badge-primary {
   padding: 0.25em;
   text-align: center;
   color: var(--secondary-theme-color);
+  background-color: var(--primary-theme-color);
+}
 
-  position: absolute;
-  top: -10px;
-  right: -15px;
+.card-badge-secondary {
+  padding: 0.25em;
+  text-align: center;
+  color: var(--primary-theme-color);
+  background-color: var(--secondary-theme-color);
+  opacity: 0.5;
 }
