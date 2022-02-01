@@ -1,3 +1,217 @@
+.head-1 {
+  font-size: 48px;
+  line-height: 64px;
+}
+
+.head-2 {
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.head-3 {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.head-4 {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.head-5 {
+  font-size: 8px;
+  line-height: 16px;
+}
+
+.text-1 {
+  font-size: 48px;
+  line-height: 64px;
+}
+
+.text-2 {
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.text-3 {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.text-4 {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.text-5 {
+  font-size: 8px;
+  line-height: 16px;
+}
+
+.font-weight-light {
+  font-weight: 300;
+}
+
+.font-weight-regular {
+  font-weight: 400;
+}
+
+.font-weight-semibold {
+  font-weight: 600;
+}
+
+.font-weight-bold {
+  font-weight: 700;
+}
+
+.font-weight-black {
+  font-weight: 900;
+}
+
+.margin-xxs {
+  margin: 0.25rem;
+}
+
+.margin-xs {
+  margin: 0.5rem;
+}
+
+.margin-sm {
+  margin: 1rem;
+}
+
+.margin-md {
+  margin: 1.5rem;
+}
+
+.margin-lg {
+  margin: 2rem;
+}
+
+.margin-xl {
+  margin: 2.5rem;
+}
+
+.margin-xxl {
+  margin: 3rem;
+}
+
+.padding-xxs {
+  padding: 0.25rem;
+}
+
+.padding-xs {
+  padding: 0.5rem;
+}
+
+.padding-sm {
+  padding: 1rem;
+}
+
+.padding-md {
+  padding: 1.5rem;
+}
+
+.padding-lg {
+  padding: 2rem;
+}
+
+.padding-xl {
+  padding: 2.5rem;
+}
+
+.padding-xxl {
+  padding: 3rem;
+}
+
+.border-radius-xs {
+  border-radius: 0.5em;
+}
+
+.border-radius-sm {
+  border-radius: 1em;
+}
+
+.border-radius-md {
+  border-radius: 1.5em;
+}
+
+.border-radius-lg {
+  border-radius: 2em;
+}
+
+.border-radius-xl {
+  border-radius: 2.5em;
+}
+
+.position-rel {
+  position: relative;
+}
+
+.position-abs {
+  position: absolute;
+}
+
+.position-fixed {
+  position: fixed;
+}
+
+.position-sticky {
+  position: sticky;
+}
+
+.top-0 {
+  top: 0;
+}
+
+.top-50 {
+  top: 50%;
+}
+
+.top-100 {
+  top: 100%;
+}
+
+.bottom-0 {
+  bottom: 0;
+}
+
+.bottom-50 {
+  bottom: 50%;
+}
+
+.bottom-100 {
+  bottom: 100%;
+}
+
+.left-0 {
+  left: 0;
+}
+
+.left-50 {
+  left: 50%;
+}
+
+.left-100 {
+  left: 100%;
+}
+
+.right-0 {
+  right: 0;
+}
+
+.right-50 {
+  right: 50%;
+}
+
+.right-100 {
+  right: 100%;
+}
+
+.translate-topright {
+  transform: translate(-20%, -50%);
+}
+
 .d-flex {
   display: flex;
   align-items: center;
