@@ -4,10 +4,8 @@
 :root {
   --primary-color: #0284c7;
   --primary-light-color: #e0f2fe;
-  --primary-theme-color: #ec1d24;
   --secondary-color: #a21caf;
   --secondary-light-color: #f5d0fe;
-  --secondary-theme-color: #fefefe;
   --success-color: #15803d;
   --success-light-color: #bbf7d0;
   --danger-color: #dc2626;
@@ -16,5 +14,10 @@
   --warning-light-color: #fef9c3;
   --light-color: #cbd5e1;
   --dark-color: #1e293b;
-  --drak-theme-color: #202020;
+
+  --primary-theme-color: #ec1d24;
+  --primary-theme-light-color: #f87171;
+  --secondary-theme-color: #fefefe;
+  --dark-theme-color: #202020;
+  --dark-theme-light-color: #71717a;
 }
