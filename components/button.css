@@ -16,6 +16,10 @@
 
 }
 
+.btn-secondary-link {
+  color: var(--secondary-theme-color);
+}
+
 .btn-primary {
   background-color: var(--primary-theme-color);
   color: var(--secondary-theme-color);
