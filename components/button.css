@@ -7,13 +7,11 @@
 }
 
 .btn-link {
-
   text-decoration: none;
   margin: 0 1em;
   font-size: 1.2rem;
+  padding: 0.5em;
   color: var(--primary-theme-color);
-  padding: 0.5em 1em;
-
 }
 
 .btn-secondary-link {

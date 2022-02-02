@@ -32,6 +32,7 @@
 
 .badge-container {
   position: relative;
+  width: max-content;
 }
 
 .badge-status-online {
@@ -53,6 +54,7 @@
   cursor: pointer;
 }
 
+
 .card-badge-primary {
   padding: 0.25em;
   text-align: center;
@@ -67,3 +69,4 @@
   background-color: var(--secondary-theme-color);
   opacity: 0.5;
 }
+

@@ -217,7 +217,7 @@
 }
 
 .text-gray {
-  color: #9ca3af;
+  color: var(--dark-theme-light-color);
 }
 
 .d-flex {
