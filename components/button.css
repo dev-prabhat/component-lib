@@ -7,14 +7,11 @@
 }
 
 .btn-link {
-  text-decoration: none;
-  margin: 0 1em;
-  font-size: 1.2rem;
-  color: var(--primary-theme-color);
-}
-
-.btn-secondary-link {
-  color: var(--secondary-theme-color);
+  font-size: 1rem;
+  padding: 0.5em 1em;
+  color: var(--dark-theme-color);
+  text-decoration-color: var(--primary-theme-color);
+  cursor: pointer;
 }
 
 .btn-primary {
