@@ -3,7 +3,7 @@
 @import url("./components/avatar.css");
 @import url("./components/badge.css");
 @import url("./components/image.css");
-@import url("./components/utile.css");
+@import url("./components/utility.css");
 
 :root {
   --primary-color: #0284c7;
