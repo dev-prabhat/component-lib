@@ -7,11 +7,11 @@
 }
 
 .btn-link {
-  font-size: 1rem;
-  padding: 0.5em 1em;
-  color: var(--dark-theme-color);
-  text-decoration-color: var(--primary-theme-color);
-  cursor: pointer;
+  font-size: 1.2rem;
+  margin: 0 1em;
+  padding: 0.5em;
+  color: var(--primary-theme-color);
+  text-decoration: none;
 }
 
 .btn-primary {
