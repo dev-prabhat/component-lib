@@ -35,3 +35,7 @@
   background-color: var(--secondary-theme-color);
   opacity: 0.5;
 }
+
+.cart-icon {
+  margin-right: 0.5rem;
+}
