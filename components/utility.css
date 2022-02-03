@@ -212,6 +212,14 @@
   transform: translate(-20%, -50%);
 }
 
+.text-center {
+  text-align: center;
+}
+
+.text-gray {
+  color: var(--dark-theme-light-color);
+}
+
 .d-flex {
   display: flex;
   align-items: center;
