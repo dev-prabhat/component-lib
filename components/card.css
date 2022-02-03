@@ -12,10 +12,6 @@
   width: max-content;
 }
 
-/* .card-image {
-  margin: 0.5em;
-} */
-
 .card-title {
   color: var(--dark-color);
   display: inline;
