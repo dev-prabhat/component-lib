@@ -52,18 +52,3 @@
 .badge-link {
   cursor: pointer;
 }
-
-.card-badge-primary {
-  padding: 0.25em;
-  text-align: center;
-  color: var(--secondary-theme-color);
-  background-color: var(--primary-theme-color);
-}
-
-.card-badge-secondary {
-  padding: 0.25em;
-  text-align: center;
-  color: var(--primary-theme-color);
-  background-color: var(--secondary-theme-color);
-  opacity: 0.5;
-}

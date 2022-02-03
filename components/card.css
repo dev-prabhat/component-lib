@@ -1,5 +1,4 @@
 .card-container {
-  padding: 0.5em;
   background-color: var(--secondary-theme-color);
   box-shadow: 0px 0px 10px 5px var(--primary-light-color);
 }
@@ -13,16 +12,30 @@
   width: max-content;
 }
 
-.card-image {
+/* .card-image {
   margin: 0.5em;
-}
+} */
 
 .card-title {
-  font-size: 1.25rem;
+  color: var(--dark-color);
   display: inline;
   margin-right: 1em;
 }
 
 .card-subtitle {
   font-size: 1rem;
+  color: var(--dark-color);
+}
+
+.card-badge-primary {
+  text-align: center;
+  color: var(--secondary-theme-color);
+  background-color: var(--primary-theme-color);
+}
+
+.card-badge-secondary {
+  text-align: center;
+  color: var(--primary-theme-color);
+  background-color: var(--secondary-theme-color);
+  opacity: 0.5;
 }
