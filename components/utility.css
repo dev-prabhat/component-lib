@@ -217,10 +217,21 @@
 }
 
 .text-gray {
-  color: #9ca3af;
+  color: var(--dark-theme-light-color);
 }
 
 .d-flex {
   display: flex;
   align-items: center;
+}
+
+.d_block {
+  display: block;
+}
+
+.d_inline {
+  display: inline;
+}
+.d_inlineblock {
+  display: inline-block;
 }
