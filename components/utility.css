@@ -225,15 +225,15 @@
   align-items: center;
 }
 
-.d_block {
+.d-block {
   display: block;
 }
 
-.d_inline {
+.d-inline {
   display: inline;
 }
 
-.d_inlineblock {
+.d-inline_block {
   display: inline-block;
 }
 
