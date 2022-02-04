@@ -1,48 +1,28 @@
-.head-1 {
-  font-size: 48px;
-  line-height: 64px;
-}
-
-.head-2 {
-  font-size: 32px;
-  line-height: 40px;
-}
-
-.head-3 {
-  font-size: 24px;
-  line-height: 32px;
-}
-
-.head-4 {
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.head-5 {
-  font-size: 8px;
-  line-height: 16px;
-}
-
+.head-1,
 .text-1 {
-  font-size: 48px;
-  line-height: 64px;
+  font-size: 3rem;
+  line-height: 4rem;
 }
 
+.head-2,
 .text-2 {
-  font-size: 32px;
-  line-height: 40px;
+  font-size: 2rem;
+  line-height: 2.5rem;
 }
 
+.head-3,
 .text-3 {
-  font-size: 24px;
-  line-height: 32px;
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
+.head-4,
 .text-4 {
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 
+.head-5,
 .text-5 {
   font-size: 8px;
   line-height: 16px;
