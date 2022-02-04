@@ -224,3 +224,15 @@
   display: flex;
   align-items: center;
 }
+
+.d-block {
+  display: block;
+}
+
+.d-inline {
+  display: inline;
+}
+
+.d-inline_block {
+  display: inline-block;
+}

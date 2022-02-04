@@ -1,0 +1,36 @@
+.styled-list {
+  width: max-content;
+}
+
+.list-style-circle {
+  list-style-type: circle;
+}
+
+.list-style-square {
+  list-style-type: square;
+}
+
+.list-style-upper-case {
+  list-style: upper-alpha;
+}
+
+.list-style-lower-case {
+  list-style: lower-alpha;
+}
+
+.list-style-upper-roman {
+  list-style: upper-roman;
+}
+
+.list-style-lower-roman {
+  list-style: lower-roman;
+}
+
+.list-style-none {
+  list-style-type: none;
+}
+
+.list-style-inline {
+  display: inline;
+  margin: 0 1rem;
+}
