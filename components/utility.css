@@ -1,4 +1,4 @@
-.head-1 {
+.head-1 
   font-size: 3rem;
   line-height: 4rem;
 }
@@ -236,4 +236,5 @@
 .d_inlineblock {
   display: inline-block;
 }
+
 
