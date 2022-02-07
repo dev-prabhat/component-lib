@@ -3,6 +3,7 @@
 @import url("./components/avatar.css");
 @import url("./components/badge.css");
 @import url("./components/image.css");
+@import url("./components/list.css");
 @import url("./components/utility.css");
 @import url("./components/form.css");
 @import url("./components/card.css");
@@ -27,4 +28,8 @@
   --secondary-theme-color: #fefefe;
   --dark-theme-color: #202020;
   --dark-theme-light-color: #71717a;
+  --dark-theme-shade-20: #7a7a83;
+  --dark-theme-shade-40: #83838b;
+  --dark-theme-shade-60: #95959b;
+  --dark-theme-shade-80: #b8b8bc;
 }
