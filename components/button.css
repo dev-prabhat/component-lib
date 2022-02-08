@@ -1,5 +1,4 @@
 .btn {
-  font-size: 1.2rem;
   padding: 0.5em 1em;
   border: 1px solid var(--primary-theme-color);
   border-radius: 0.5em;
@@ -7,8 +6,6 @@
 }
 
 .btn-link {
-  font-size: 1.2rem;
-  margin: 0 1em;
   padding: 0.5em;
   color: var(--primary-theme-color);
   text-decoration: none;
