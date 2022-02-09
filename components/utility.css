@@ -92,7 +92,7 @@
   margin: 2.5rem;
 }
 
-.margin-xxl {
+.margin-2xl {
   margin: 3rem;
 }
 
@@ -120,7 +120,7 @@
   padding: 2.5rem;
 }
 
-.padding-xxl {
+.padding-2xl {
   padding: 3rem;
 }
 
@@ -232,6 +232,23 @@
 .d_inline {
   display: inline;
 }
+
 .d_inlineblock {
   display: inline-block;
+}
+
+.width-sm {
+  width: 4rem;
+}
+
+.width-md {
+  width: 8rem;
+}
+
+.width-lg {
+  width: 12re;
+}
+
+.width-2xl {
+  width: 16rem;
 }
