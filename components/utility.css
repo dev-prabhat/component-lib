@@ -211,11 +211,27 @@
 }
 
 .width-lg {
-  width: 12re;
+  width: 12rem;
 }
 
 .width-2xl {
   width: 16rem;
+}
+
+.height-sm {
+  height: 4rem;
+}
+
+.height-md {
+  height: 8rem;
+}
+
+.height-lg {
+  height: 12rem;
+}
+
+.height-2xl {
+  height: 16rem;
 }
 
 .opacity-20 {
