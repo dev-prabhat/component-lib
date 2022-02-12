@@ -214,8 +214,12 @@
   width: 12rem;
 }
 
-.width-2xl {
+.width-xl {
   width: 16rem;
+}
+
+.width-2xl {
+  width: 20rem;
 }
 
 .height-sm {
@@ -230,8 +234,12 @@
   height: 12rem;
 }
 
-.height-2xl {
+.height-xl {
   height: 16rem;
+}
+
+.height-2xl {
+  height: 20rem;
 }
 
 .opacity-20 {
