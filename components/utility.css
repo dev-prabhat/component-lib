@@ -237,18 +237,22 @@
   display: inline-block;
 }
 
-.width-sm {
+.width-sm,
+.height-sm {
   width: 4rem;
 }
 
-.width-md {
+.width-md,
+.height-md {
   width: 8rem;
 }
 
-.width-lg {
-  width: 12re;
+.width-lg,
+.height-lg {
+  width: 12rem;
 }
 
-.width-2xl {
+.width-2xl,
+.height-xl {
   width: 16rem;
 }
