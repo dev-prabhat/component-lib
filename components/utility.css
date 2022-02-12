@@ -237,22 +237,34 @@
   display: inline-block;
 }
 
-.width-sm,
-.height-sm {
+.width-sm {
   width: 4rem;
 }
 
-.width-md,
-.height-md {
+.width-md {
   width: 8rem;
 }
 
-.width-lg,
-.height-lg {
+.width-lg {
   width: 12rem;
 }
 
-.width-2xl,
-.height-xl {
+.width-2xl {
   width: 16rem;
+}
+
+.height-sm {
+  height: 4rem;
+}
+
+.height-md {
+  height: 8rem;
+}
+
+.height-lg {
+  height: 12rem;
+}
+
+.height-2xl {
+  height: 16rem;
 }
