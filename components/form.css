@@ -1,0 +1,19 @@
+.form-container {
+  border: 1px solid var(--light-color);
+  background-color: var(--secondary-theme-color);
+}
+
+.form-label {
+  color: var(--drak-theme-color);
+  width: 10rem;
+}
+
+.form-field {
+  border: 1px solid var(--light-color);
+  width: 100%;
+  margin: 8px 0;
+}
+
+.disable-input {
+  background-color: var(--light-color);
+}
