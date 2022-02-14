@@ -8,6 +8,7 @@
 @import url("./components/utility.css");
 @import url("./components/form.css");
 @import url("./components/navigation.css");
+@import url("./components/toast.css");
 
 :root {
   --primary-color: #0284c7;
