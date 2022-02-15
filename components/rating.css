@@ -13,10 +13,10 @@
 }
 /* set properties of all labels */
 .star-rating > label {
-  width: 30px;
-  height: 30px;
+  width: 2rem;
+  height: 2rem;
   font-family: Arial;
-  font-size: 30px;
+  font-size: 2rem;
   transition: 0.2s ease;
   color: var(--rating-color);
 }
