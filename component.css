@@ -10,6 +10,7 @@
 @import url("./components/navigation.css");
 @import url("./components/toast.css");
 @import url("/components/rating.css");
+@import url("/components/modal.css");
 
 :root {
   --primary-color: #0284c7;
