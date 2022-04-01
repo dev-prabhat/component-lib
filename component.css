@@ -11,6 +11,7 @@
 @import url("./components/toast.css");
 @import url("/components/rating.css");
 @import url("/components/slider.css");
+@import url("/components/modal.css");
 
 :root {
   --primary-color: #0284c7;
@@ -26,6 +27,7 @@
   --light-color: #cbd5e1;
   --dark-color: #1e293b;
   --rating-color: #ffa500;
+  --modal-bg-color: #00000080;
 
   --primary-theme-color: #ec1d24;
   --primary-theme-light-color: #f87171;
