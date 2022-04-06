@@ -1,0 +1,14 @@
+.grid-2-col{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:1.5em;
+}
+
+.grid-3-col{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:1.5em;
+}
+.grid-item{
+    min-height: 5rem;
+}
