@@ -19,6 +19,7 @@
   font-size: 2rem;
   transition: 0.2s ease;
   color: var(--rating-color);
+  cursor: pointer;
 }
 /* give label a hover state */
 .star-rating label:hover {
