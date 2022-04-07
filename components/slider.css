@@ -1,0 +1,18 @@
+.slider {
+  appearance: none;
+  background: var(--danger-light-color);
+  border-radius: 1rem;
+  height: 1.5rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 1.5rem;
+  width: 1.5rem;
+  border: 1px solid var(--danger-color);
+  border-radius: 50%;
+  background: var(--danger-light-color);
+  box-shadow: -11rem 0 0 10rem var(--danger-color);
+}
