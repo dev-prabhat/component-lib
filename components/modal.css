@@ -21,6 +21,17 @@
   border-radius: 0.5rem;
 }
 
+.modal-preview{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: var(--secondary-theme-color);
+  padding: 1rem 1.5rem;
+  width: 24rem;
+  border-radius: 0.5rem;
+}
+
 .close-btn {
   float: right;
   width: 1.5rem;
